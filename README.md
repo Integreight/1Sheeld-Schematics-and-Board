@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-This repository contains the schematics and board files for board.
+This repository contains the schematics and board files for 1Sheeld board.
 
 ## Schematics Reference Image ##
 
