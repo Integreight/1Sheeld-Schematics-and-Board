@@ -1,12 +1,20 @@
-# 1Sheeld Schematics and Board files #
+# 1Sheeld Schematics, Board and Fritzing part files #
 
 ## Overview ##
 
-This repository contains the schematics and board files for 1Sheeld board.
+This repository contains the schematics, board, and Fritzing part files for 1Sheeld board.
 
 ## Schematics Reference Image ##
 
-![Schematics Image](http://i.imgur.com/AsY9CNq.png)
+![Schematics Image](http://i.imgur.com/XrQrw4y.jpg)
+
+## Board Reference Image ##
+
+![Schematics Image](http://i.imgur.com/MYrYqb2.jpg)
+
+## Fritzing Part Reference Image ##
+
+![Fritzing Part Image](http://i.imgur.com/h5yYmZ8.jpg)
 
 ## Changelog ##
 
